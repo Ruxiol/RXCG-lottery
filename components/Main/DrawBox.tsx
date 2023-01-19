@@ -23,7 +23,7 @@ const DrawBox = ({ contract }: any) => {
           variant="h3"
           sx={{ fontWeight: "600", textAlign: "center" }}
         >
-          The Next Draw
+          The Next RXCG Draw
         </Typography>
 
         {/* Top Stats Ctn */}
@@ -37,7 +37,7 @@ const DrawBox = ({ contract }: any) => {
         >
           {/* Left Ctn */}
           <Stack sx={statsStyles}>
-            <Typography variant="caption">Total Pool</Typography>
+            <Typography variant="caption">Total RXCG Pool</Typography>
             <Typography variant="body1">
               {CurrentWinningReward &&
                 ethers.utils.formatEther(CurrentWinningReward.toString())}{" "}
@@ -46,7 +46,7 @@ const DrawBox = ({ contract }: any) => {
           </Stack>
           {/* Right Ctn */}
           <Stack sx={statsStyles}>
-            <Typography variant="caption">Tickets Remaining</Typography>
+            <Typography variant="caption">RXCG Tickets Remaining</Typography>
             <Typography variant="body1">
               {RemainingTickets?.toString()}
             </Typography>
