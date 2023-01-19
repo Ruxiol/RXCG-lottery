@@ -9,7 +9,7 @@ const Footer = () => {
           variant="subtitle2"
           sx={{ color: "secondary.main", textAlign: "center" }}
         >
-          © {new Date()?.getFullYear()} Crpto Lottery. Developed by Souvik
+          © {new Date()?.getFullYear()} RXCG Crypto Lottery developed by RXC Games team
         </Typography>
       </footer>
       ;
