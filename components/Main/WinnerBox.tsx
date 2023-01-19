@@ -56,14 +56,14 @@ const WinnerBox = ({ contract }: any) => {
           onClick={onWithdrawWinnings}
         >
           <Typography variant="h6" sx={{ fontWeight: "bold" }}>
-            Winner Winner Chicken Dinner!
+            We have a winner! Congratz!
           </Typography>
           <Typography variant="body1">
             Total Winnings: {ethers.utils.formatEther(winnings.toString())}{" "}
             {currency}
           </Typography>
           <Typography variant="h6" sx={{ mt: 1.5 }}>
-            Click here to Withdraw
+            Click here to Withdraw RXCG
           </Typography>
         </Stack>
       )}
