@@ -1,4 +1,4 @@
-# Crypto Draw 
+# RXCG Crypto Raffle
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/souviknsl07/crypto-lottery/blob/main/LICENSE)
 ![React](https://img.shields.io/badge/react-v18-blue)
 ![Next](https://img.shields.io/badge/next-v12-yellowgreen)
