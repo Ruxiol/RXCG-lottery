@@ -37,7 +37,7 @@ const Loader = () => {
               fontWeight: "semi-bold",
             }}
           >
-            Loading the Crypto Lottery...
+            Loading the RXCG Crypto Lottery...
           </Typography>
         </Stack>
         <PropagateLoader color="white" size={25} />
