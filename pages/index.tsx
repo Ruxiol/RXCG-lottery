@@ -24,7 +24,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Decentralized Lottery</title>
+        <title>RXCG Decentralized Lottery</title>
       </Head>
       <Container
         maxWidth={false}
