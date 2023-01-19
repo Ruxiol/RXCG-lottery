@@ -28,7 +28,7 @@ const Header = () => {
         />
         <Box sx={{ ml: "8px" }}>
           <Typography variant="h1" className="text-lg text-white font-bold">
-            CRYPTO DRAW
+           RXCG CRYPTO DRAW
           </Typography>
           <Typography
             variant="body1"
