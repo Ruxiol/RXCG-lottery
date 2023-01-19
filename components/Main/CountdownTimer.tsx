@@ -20,7 +20,7 @@ const Renderer = ({ hours, minutes, seconds, completed }: IRenderer) => {
           sx={{ textAlign: "center" }}
           className="animate-bounce"
         >
-          Tickets Sales have now CLOSED for this draw
+          RXCG Tickets Sales have now CLOSED for this draw
         </Typography>
       ) : (
         // Render a countdown
