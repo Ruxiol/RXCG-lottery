@@ -39,14 +39,14 @@ const Login = () => {
               mb: "10px",
             }}
           >
-            RXCG CRYPTO LOTTERY
+            RXC Games Blockchain Raffle
           </Typography>
           <Typography
             variant="body2"
             gutterBottom
             sx={{ color: "secondary.contrastText" }}
           >
-            Get Started by Logging in with your Metamask/Trust/Brave wallet.
+            Get Started by Logging in with your Metamask.
           </Typography>
           <Button
             variant="contained"
@@ -64,7 +64,7 @@ const Login = () => {
             }}
             onClick={connectWithMetamask}
           >
-            Login with Metamask/Trust/Brave wallet.
+            Login with Metamask.
           </Button>
         </Stack>
       </Container>
