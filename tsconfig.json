@@ -17,7 +17,8 @@
     "resolveJsonModule": true,
     "moduleResolution": "node",
     "isolatedModules": true,
-    "jsx": "preserve"
+    "jsx": "preserve",
+    "baseUrl": "/home/rux/RXC-lottery"
   },
   "include": [
     "next-env.d.ts",
