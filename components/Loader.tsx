@@ -36,7 +36,7 @@ const Loader = () => {
               fontWeight: "semi-bold",
             }}
           >
-            Loading RXC Games Raffle...
+            Loading Raffle...
           </Typography>
         </Stack>
         <PropagateLoader color="white" size={25} />
