@@ -9,7 +9,7 @@ const Footer = () => {
           variant="subtitle2"
           sx={{ color: "secondary.main", textAlign: "center" }}
         >
-          © {new Date()?.getFullYear()} RXCG Crypto Lottery developed by RXC Games team
+          © {new Date()?.getFullYear()} RXC Games Raffle developed by Rux, ToniDev and rest of community!
         </Typography>
       </footer>
       ;
