@@ -9,7 +9,7 @@ const Login = () => {
   return (
     <>
      <Head>
-        <title>Login</title>
+        <title>RXC Games Raffle</title>
       </Head>
       <Container
         maxWidth={false}
@@ -25,10 +25,9 @@ const Login = () => {
       >
         <Stack alignItems="center">
           <Image
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/2048px-MetaMask_Fox.svg.png"
+            src="https://crypto.ba/uploads/default/original/2X/e/eaa6b0bdd015f75c8dbb53f9e5f23facdf4e7c1a.svg"
             height={224}
             width={224}
-            className="rounded-full object-cover"
           />
           <Typography
             variant="h3"
@@ -39,7 +38,7 @@ const Login = () => {
               mb: "10px",
             }}
           >
-            RXC Games Blockchain Raffle
+            Blockchain Raffle
           </Typography>
           <Typography
             variant="body2"
@@ -64,7 +63,7 @@ const Login = () => {
             }}
             onClick={connectWithMetamask}
           >
-            Login with Metamask.
+            Login.
           </Button>
         </Stack>
       </Container>
