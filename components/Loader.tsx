@@ -34,12 +34,13 @@ const Loader = () => {
             sx={{
               color: "secondary.contrastText",
               fontWeight: "semi-bold",
+              margin-left: -259px;
             }}
           >
             Loading Raffle...
           </Typography>
         </Stack>
-        <PropagateLoader color="white" size={25} />
+        <PropagateLoader color="white" size={20} />
       </Container>
     </>
   );
