@@ -28,16 +28,6 @@ const Loader = () => {
             height={300}
             width={300}
           />
-          <Typography
-            variant="h6"
-            gutterBottom
-            sx={{
-              color: "secondary.contrastText",
-              fontWeight: "semi-bold",
-            }}
-          >
-            Loading Raffle...
-          </Typography>
         </Stack>
         <PropagateLoader color="white" size={20} />
       </Container>
