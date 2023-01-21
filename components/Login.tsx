@@ -27,7 +27,7 @@ const Login = () => {
           <Image
             src="https://crypto.ba/uploads/default/original/2X/e/eaa6b0bdd015f75c8dbb53f9e5f23facdf4e7c1a.svg"
             height={300}
-            width={500}
+            width={300}
           />
           <Typography
             variant="h3"
@@ -38,7 +38,7 @@ const Login = () => {
               mb: "10px",
             }}
           >
-            Blockchain Raffle
+            Raffle
           </Typography>
           <Typography
             variant="body2"
