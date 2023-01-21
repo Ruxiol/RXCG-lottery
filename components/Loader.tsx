@@ -34,7 +34,6 @@ const Loader = () => {
             sx={{
               color: "secondary.contrastText",
               fontWeight: "semi-bold",
-              margin-left: -259px;
             }}
           >
             Loading Raffle...
