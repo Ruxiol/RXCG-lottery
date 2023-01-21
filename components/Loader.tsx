@@ -26,7 +26,7 @@ const Loader = () => {
           <Image
             src="https://crypto.ba/uploads/default/original/2X/e/eaa6b0bdd015f75c8dbb53f9e5f23facdf4e7c1a.svg"
             height={300}
-            width={500}
+            width={300}
           />
           <Typography
             variant="h6"
