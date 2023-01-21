@@ -24,7 +24,7 @@ const Loader = () => {
           sx={{ mb: "40px" }}
         >
           <Image
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/2048px-MetaMask_Fox.svg.png"
+            src="https://crypto.ba/uploads/default/original/2X/e/eaa6b0bdd015f75c8dbb53f9e5f23facdf4e7c1a.svg"
             height={80}
             width={80}
             className="rounded-full object-cover"
